@@ -40,8 +40,8 @@ body p{
   }
 } 
 .fullscreen_content{
-    display:flex;
-    justify-content:space-around;
+    /* display:flex;
+    justify-content:space-around; */
     align-items: center;
 }
 #vip{
