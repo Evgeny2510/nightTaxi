@@ -40,8 +40,8 @@ body p{
   }
 } 
 .fullscreen_content{
-    /* display:flex;
-    justify-content:space-around; */
+     /* display:flex; */
+    justify-content:space-around; 
     align-items: center;
 }
 #vip{
@@ -76,7 +76,7 @@ body p{
     0%   {color: white;}
     25%  {color: yellow;}
     50%  {color: red;}
-    100% {color: green;}
+    100% {color: yellow;}
 }
 
 #call{  
